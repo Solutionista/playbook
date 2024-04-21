@@ -1,0 +1,6 @@
+@import url('./main-layout.css');
+@import url('./views/component-view.css');
+@import url('./views/vaadin-basics-view.css');
+@import url('./views/vaadin-advanced-view.css');
+@import url('./views/vaadin-grids-view.css');
+@import url('./views/vaadin-tabs-view.css');
